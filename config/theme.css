@@ -1,0 +1,14 @@
+:root {
+  --primary: #72aa72;
+  --primary-text: #1a1a1a;
+  --secondary: #ff00aa;
+  --secondary-text: #ffffff;
+  --accent: #505050;
+  --accent-text: #ffffff;
+  --black: #000000;
+}
+
+body {
+  font-family: 'Audiowide' !important;
+  font-size: 22px !important;
+}
